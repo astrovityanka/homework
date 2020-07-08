@@ -1,6 +1,6 @@
 # Homework
 
-## Динамическое программирование
+## Dynamic programming
 
-1. Задача о размене мелочи
-1. Задача о расписании
+1. Cash change problem
+1. Knapsack problem
