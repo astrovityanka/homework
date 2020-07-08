@@ -1,2 +1,6 @@
-# homework
-My homework on the design and programming
+# Homework
+
+1. Динамическое программирование
+
+  1.1. Задача о размене мелочи
+  1.2. Задача о расписании
